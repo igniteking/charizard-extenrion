@@ -1,6 +1,6 @@
 // Create an image element
 const image = new Image();
-image.src = ("https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif"); // Ensure the image file name and path are correct
+image.src = ("https://github.com/igniteking/charizard-extenrion/blob/main/pokemon.gif?raw=true"); // Ensure the image file name and path are correct
 image.id = "charizard-bottom-left-image";
 image.alt = "Bottom Left Image";
 
